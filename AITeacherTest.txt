@@ -1,0 +1,23 @@
+This is a program that will test your multiplication skills. You will be asked simple multiplication problems with two single digit integers
+How much is 8 times 2?
+16
+Very good!
+Would you like to continue? 1 for yes, 0 for no
+1
+How much is 5 times 8?
+40
+Very good!
+Would you like to continue? 1 for yes, 0 for no
+1
+How much is 7 times 6?
+2
+No. Please try again.
+How much is 7 times 6?
+42
+Very good!
+Would you like to continue? 1 for yes, 0 for no
+1
+How much is 3 times 8?
+24
+Very good!
+Would you like to continue? 1 for yes, 0 for no

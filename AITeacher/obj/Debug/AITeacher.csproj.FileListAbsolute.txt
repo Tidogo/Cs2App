@@ -1,0 +1,6 @@
+C:\Users\jedik\source\repos\Cs2Apps\AITeacher\bin\Debug\AITeacher.exe.config
+C:\Users\jedik\source\repos\Cs2Apps\AITeacher\bin\Debug\AITeacher.exe
+C:\Users\jedik\source\repos\Cs2Apps\AITeacher\bin\Debug\AITeacher.pdb
+C:\Users\jedik\source\repos\Cs2Apps\AITeacher\obj\Debug\AITeacher.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs2Apps\AITeacher\obj\Debug\AITeacher.exe
+C:\Users\jedik\source\repos\Cs2Apps\AITeacher\obj\Debug\AITeacher.pdb

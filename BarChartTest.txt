@@ -1,0 +1,16 @@
+This program will take 3 numbers between 1-30 and print that amount of asterisks in return
+Please enter the first whole number: 3
+Please enter the second whole number: 5
+Please enter the third whole number: 8
+Here is the asterisk equivalent for number 1: ***
+Here is the asterisk equivalent for number 2: *****
+Here is the asterisk equivalent for number 3: ********
+Please enter any key to exit
+
+This program will take 3 numbers between 1-30 and print that amount of asterisks in return. If you want to exit before entering all three numbers, enter anything but a number and the program will abort.
+Please enter the whole number 1: 13
+Here is the asterisk equivalent for number 1: *************
+Please enter the whole number 2: 21
+Here is the asterisk equivalent for number 2: *********************
+Please enter the whole number 3:
+Please enter any key to exit

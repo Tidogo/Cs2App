@@ -1,0 +1,10 @@
+This program will create 3 employees, display their salaries, give them raises, and then display their new salaries.
+Creating new employees...
+John's salary: 90000
+Jane's salary: 96000
+Bruce's salary: 120000
+Giving all employees 10% raise...
+John's salary: 99000.0
+Jane's salary: 105600.0
+Bruce's salary: 132000.0
+Please enter any key to exit

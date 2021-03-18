@@ -1,0 +1,6 @@
+C:\Users\jedik\source\repos\Cs2Apps\GuessTheNumbe\bin\Release\GuessTheNumbe.exe.config
+C:\Users\jedik\source\repos\Cs2Apps\GuessTheNumbe\bin\Release\GuessTheNumbe.exe
+C:\Users\jedik\source\repos\Cs2Apps\GuessTheNumbe\bin\Release\GuessTheNumbe.pdb
+C:\Users\jedik\source\repos\Cs2Apps\GuessTheNumbe\obj\Release\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs2Apps\GuessTheNumbe\obj\Release\GuessTheNumbe.exe
+C:\Users\jedik\source\repos\Cs2Apps\GuessTheNumbe\obj\Release\GuessTheNumbe.pdb

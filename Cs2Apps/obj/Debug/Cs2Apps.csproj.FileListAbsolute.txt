@@ -1,0 +1,6 @@
+C:\Users\jedik\source\repos\Cs2Apps\Cs2Apps\bin\Debug\Cs2Apps.exe.config
+C:\Users\jedik\source\repos\Cs2Apps\Cs2Apps\bin\Debug\Cs2Apps.exe
+C:\Users\jedik\source\repos\Cs2Apps\Cs2Apps\bin\Debug\Cs2Apps.pdb
+C:\Users\jedik\source\repos\Cs2Apps\Cs2Apps\obj\Debug\Cs2Apps.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs2Apps\Cs2Apps\obj\Debug\Cs2Apps.exe
+C:\Users\jedik\source\repos\Cs2Apps\Cs2Apps\obj\Debug\Cs2Apps.pdb

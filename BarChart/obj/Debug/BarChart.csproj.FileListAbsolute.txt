@@ -1,0 +1,6 @@
+C:\Users\jedik\source\repos\Cs2Apps\BarChart\bin\Debug\BarChart.exe.config
+C:\Users\jedik\source\repos\Cs2Apps\BarChart\bin\Debug\BarChart.exe
+C:\Users\jedik\source\repos\Cs2Apps\BarChart\bin\Debug\BarChart.pdb
+C:\Users\jedik\source\repos\Cs2Apps\BarChart\obj\Debug\BarChart.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs2Apps\BarChart\obj\Debug\BarChart.exe
+C:\Users\jedik\source\repos\Cs2Apps\BarChart\obj\Debug\BarChart.pdb

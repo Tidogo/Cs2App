@@ -1,0 +1,6 @@
+C:\Users\jedik\source\repos\Cs2Apps\EmployeeDB\bin\Release\EmployeeDB.exe.config
+C:\Users\jedik\source\repos\Cs2Apps\EmployeeDB\bin\Release\EmployeeDB.exe
+C:\Users\jedik\source\repos\Cs2Apps\EmployeeDB\bin\Release\EmployeeDB.pdb
+C:\Users\jedik\source\repos\Cs2Apps\EmployeeDB\obj\Release\EmployeeDB.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs2Apps\EmployeeDB\obj\Release\EmployeeDB.exe
+C:\Users\jedik\source\repos\Cs2Apps\EmployeeDB\obj\Release\EmployeeDB.pdb

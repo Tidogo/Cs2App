@@ -1,0 +1,20 @@
+This program is a guessing game. The computer will pick a random number between 1 and 1000 and you will have to guess the number. To help, the computer will tell you if your guess is too high or too low.
+Guess a number between 1 and 1000: 600
+Too low. Try again.
+Guess a number between 1 and 1000: 678
+Too high. Try again.
+Guess a number between 1 and 1000: 655
+Congratulations. You guessed the number!
+Would you like to play again? y for yes, n for no: y
+Guess a number between 1 and 1000: 593
+Congratulations. You guessed the number!
+Would you like to play again? y for yes, n for no: y
+Guess a number between 1 and 1000: 80
+Too high. Try again.
+Guess a number between 1 and 1000: 79
+Congratulations. You guessed the number!
+Would you like to play again? y for yes, n for no: y
+Guess a number between 1 and 1000: 278
+Too low. Try again.
+Guess a number between 1 and 1000: 288
+Congratulations. You guessed the number!
